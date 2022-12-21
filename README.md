@@ -34,4 +34,4 @@
 ## 📊 Banco de Datos
 
 
-<img width="500" src="./src/imagenes/vista4.png">   
+<img width="900" src="./src/imagenes/vista4.png">   
